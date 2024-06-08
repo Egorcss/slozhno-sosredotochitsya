@@ -18,6 +18,7 @@
   --button-color: #FF0070;
   --REC-color:#FF0070;
   --corners-color: #FF0070;
+  --button-color-hover: rgba(255, 0, 111, 0.6);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -32,5 +33,6 @@
     --button-color: #FF0070;
     --REC-color:  #FF0070;
     --corners-color: #FF0070;
+    --button-color-hover: rgba(255, 0, 111, 0.6);
   }
 }

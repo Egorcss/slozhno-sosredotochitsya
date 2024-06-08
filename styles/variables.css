@@ -4,16 +4,25 @@
 */
 
 :root {
+  /* Основной шрифт страницы */
+  --main-font: 'IBM Plex Mono', sans-serif;
+
+  /* Основной размер текста */
+  --main-font-size: 18px;
+
   --header-and-footer-color: #DB00FF;
   --accent-color: #FF0070;
   --dark-text: #000028;
   --main-margin: 10px;
   --main-text: #F1B2CE;
   --main-title: #FF0070;
+
   /* кнопки */
   --button-color: #FF0070;
+
   /* уголки */
   --corners-color: #FF0070;
+  
   /* цвет для REC и кружочка */
   --REC-color: #FF0070;
 }
